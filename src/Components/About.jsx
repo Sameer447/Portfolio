@@ -24,19 +24,26 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a web and app developer based in Pakistan. I have a passion for web development and love to create for web and mobile devices. I am a self-taught developer and have been learning web development for over 2 years. I have a passion for learning and sharing my knowledge with others as publicly as possible.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web Development",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Application development",
+  "Api integration",
   "Mobile user interfaces",
-  "Graphic design",
+  "HTML5/CSS3",
+  "JavaScript",
+  "React",
+  "Bootstrap",
+  "Material UI",
+  "React Native",
+  "VueJs",
+  "Angular",
 ];
 
 /**
@@ -45,7 +52,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my web and app development experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
